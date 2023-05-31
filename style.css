@@ -224,6 +224,9 @@ td,th{
     line-height: 1.5;
 }
 
+.items:before{
+    content: "\269D";
+}
 
 .items:first-child{
     font-weight: bold;
